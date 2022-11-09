@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kashyap
 - 👀 I’m interested in cool tech stuff
-- 🌱 I’m currently learning DS,Algo,Django
+- 🌱 I’m currently learning DS,Algo,Django, rails and react
 - 💞️ I’m looking to collaborate on scrapers, app development
 - 📫 How to reach me saikashyap6433@gmail.com
 
